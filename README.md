@@ -11,7 +11,7 @@ A proof of concept online game where you race to unscramble a set of jumbled wor
 
 ##Used On Page
 
-[Live Demp](http://www.curiousrhythms.com/jumble/)
+[Live Demo](http://www.curiousrhythms.com/jumble/)
 
 ##To Do
 
