@@ -9,7 +9,7 @@ A proof of concept online game where you race to unscramble a set of jumbled wor
 3. When all words are complete, the timer will stop
 4. Grab session number and share with friends 
 
-##Used On Page
+##Play It Here
 
 [Live Demo](http://www.curiousrhythms.com/jumble/)
 
