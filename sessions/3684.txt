@@ -1,0 +1,1 @@
+{"sessionName":"3684","sessionTime":{"minutes":"2","seconds":"26","microseconds":"10"},"sessionWords":["afraid\n","consent\n","bitter\n","towel\n","fairly\n"],"sessionJumbles":["darifa","otncsne","trietb","wlote","firyal"]}

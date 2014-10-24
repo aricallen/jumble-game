@@ -1,0 +1,1 @@
+{"sessionName":"0693","sessionTime":{"minutes":"0","seconds":"14","microseconds":"30"},"sessionWords":["wildlife\n","disability\n","effectively\n"],"sessionJumbles":["lliiedfw","byiiidtsal","evefcfileyt","lefdwlii","sidtiiblya","tievflyeecf"]}

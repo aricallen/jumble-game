@@ -1,0 +1,1 @@
+{"sessionName":"8741","sessionTime":{"minutes":"3","seconds":"4","microseconds":"99"},"sessionWords":["worry\n","former\n","cease\n","learning\n","biology\n"],"sessionJumbles":["rroyw","femorr","eeacs","gleniran","oilogyb"]}

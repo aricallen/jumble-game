@@ -1,0 +1,137 @@
+/* jumble custom style.css */
+
+/*** ~~~~ layout ~~~~ ***/
+
+body {
+    background:#F2F2F2;
+    font-family: arial;
+}
+
+#container {
+    width:80%;
+    max-height:2000px;
+    margin:auto;
+}
+
+#game-wrapper {
+    width:93.8%;
+    height:80%;
+    padding:40px;
+    float:left;
+    border:1px solid black;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+#header {
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: bold;
+    border: 2px solid black;
+    background:#01DF74; 
+}
+
+#options {
+    font-size:20px;
+    padding:10px;
+    border: 1px solid black;
+    margin-top:20px;
+}
+
+#puzzles {
+    font-size:30px;
+    margin:20px 0 20px 0;
+}
+
+#revealButton {
+    float:right;
+    font-size:20px;
+}
+
+#stopWatchDiv {
+    float:right;
+    clear:right;
+    font-size:20px;
+    border:2px solid black;
+    padding:5px;
+}
+
+#friendTime { 
+    float:right;
+    clear:right;
+    font-size:20px;
+    border:2px solid black;
+    padding:5px;
+    margin:5px 0;
+}
+
+#buttonWrapper {
+    margin:auto;
+}
+
+#sessionPasswordSection {
+    font-size:1.2em;
+    margin-left:20px;
+    font-weight:bold;
+}
+
+/*** ~~~~ styles ~~~~ ***/
+
+.hidden{
+	display:none;
+	visibility:hidden;
+	position:absolute;
+}
+
+span.letterBox {
+    display:inline-block;
+    text-align:center;
+    border:solid 1px black;
+    padding:10px 15px;
+    width:40px;
+    height:40px;
+}
+
+.correctBox {
+    display:inline-block;
+    position:relative;
+    width:40px;
+    height:40px;
+    top:10px;
+    left:10px;
+}
+
+.wrong {
+    background:red;
+}
+
+.correct {
+    background:#01DF74;
+}
+
+input {
+    font-size:24px;
+    margin-top:10px;
+}
+
+.jumble {
+    margin:10px 0 0 0;
+}
+
+.stopWatch {
+    font-weight:bold;
+    font-size:26px;
+}
+
+button {
+    font-size:24px;
+}
+
+
+
+
+
+
+
+
+

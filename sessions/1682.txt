@@ -1,0 +1,1 @@
+{"sessionName":"1682","sessionTime":{"minutes":"2","seconds":"0","microseconds":"65"},"sessionWords":["ridge\n","nominee\n","cemetery\n","tighten\n","terms\n"],"sessionJumbles":["drige","nnmoiee","myecreet","ienthgt","emtsr"]}

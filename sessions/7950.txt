@@ -1,0 +1,1 @@
+{"sessionName":"7950","sessionTime":{"minutes":"4","seconds":"35","microseconds":"7"},"sessionWords":["general\n","stair\n","input\n","screen\n","incident\n"],"sessionJumbles":["aelengr","iatsr","pnitu","screne","niidenct"]}

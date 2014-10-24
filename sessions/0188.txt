@@ -1,0 +1,1 @@
+{"sessionName":"0188","sessionTime":{"minutes":"3","seconds":"25","microseconds":"21"},"sessionWords":["adult\n","favorable\n","suspect\n","advantage\n","quickly\n"],"sessionJumbles":["ltdau","efaobvrla","tupssce","gnataeavd","lcykiqu"]}
